@@ -9,8 +9,8 @@ interests:
   - Deep Learning
 social: []
 organizations:
-  - name: Shantou University
-    url: https://www.stu.edu.cn/
+  - name: Hunan University
+    url: https://www.hnu.edu.cn/
 education:
   courses:
     - course: MEng in Cyber Security
