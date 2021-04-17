@@ -1,5 +1,6 @@
 ---
-title: Publications
+title: "FSVA-Data: A Flexible Solution for the Visualization and Analysis of
+  Basin-scale Water Quality Monitoring Data"
 publication_types:
   - "2"
 authors:
@@ -11,8 +12,7 @@ authors:
 publication: International Journal of Embedded Systems
 draft: false
 featured: false
-categories:
-  - EI
+categories: []
 image:
   filename: featured
   focal_point: Smart
