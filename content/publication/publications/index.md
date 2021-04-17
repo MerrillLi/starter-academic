@@ -4,7 +4,7 @@ title: "FSVA-Data: A Flexible Solution for the Visualization and Analysis of
 publication_types:
   - "2"
 authors:
-  - Jianlong Xu
+  - Jianlong Xu*
   - Yuhui Li
   - Kun Wang
   - Lianghong Xiao
