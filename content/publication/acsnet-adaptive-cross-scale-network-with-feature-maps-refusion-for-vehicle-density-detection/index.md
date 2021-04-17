@@ -8,7 +8,7 @@ authors:
   - Yuhui Li
   - Cheng Liang
   - Youyi Song
-  - Teng Zhou
+  - Teng Zhou*
   - Jing Qin
 publication: IEEE International Conference on Multimedia and Expo (ICME) 2021
 draft: false
