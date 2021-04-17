@@ -19,8 +19,8 @@ title = "Awards"
 
 ### Honours
 - 2019.05 2nd Prize in the “Challenge Cup” Competition of Guangdong Province
-- 2019.09 1st Prize in the Contemporary Undergraduate Mathematical Contest in Modeling (Guangdong Province)
-- 2019.11 2nd Prize in the Contemporary Undergraduate Mathematical Contest in Modeling
+- 2019.09 1st Prize in the CUMCM (Guangdong Province)
+- 2019.11 2nd Prize in the CUMCM (Nation)
 - 2019.12 3rd Prize in the Global Management Challenge
 - 2020.05 3nd Prize in the “Tedi” Data Mining Competition (Guangdong Province)
 - 2020.10 1nd Prize ACM "Lanqiao" Cup in Province
