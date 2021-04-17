@@ -4,7 +4,7 @@ title: NFMF:Neural Fusion Matrix Factorization for Personalized QoS Prediction
 publication_types:
   - "2"
 authors:
-  - Jianlong Xu
+  - Jianlong Xu*
   - Lijun Xiao
   - Yuhui Li
   - Mingwei Huang
