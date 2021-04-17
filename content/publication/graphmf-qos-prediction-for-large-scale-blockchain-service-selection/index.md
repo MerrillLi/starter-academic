@@ -4,7 +4,7 @@ publication_types:
   - "1"
 authors:
   - Yuhui Li
-  - Jianlong Xu
+  - Jianlong Xu*
   - Wei Liang
 publication: The 3rd International Conference on Smart BlockChain (SmartBlock 2020)
 draft: false
