@@ -16,7 +16,7 @@ design:
 * 2020.11 1st-class Scholarship for Academic Excellence, STU
 * 2020.11 Outstanding Student Award, STU
 
-### Honours
+### Awards
 
 * 2019.05 2nd Prize in the “Challenge Cup” Competition of Guangdong Province
 * 2019.09 1st Prize in the CUMCM (Guangdong Province)
