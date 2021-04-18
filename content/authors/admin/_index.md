@@ -23,4 +23,4 @@ email: liyuhui1999@icloud.com
 superuser: true
 highlight_name: false
 ---
-Yuhui Li is an undergraduate student in Computer Science Department at Shantou University (Supervisor: Dr. Jianlong Xu). He is expected to graduate with distinction(Rank 2nd, GPA 4.02/5.0) in 2021. He will be enrolled in Hunan University since 2021.09 (Supervisor: Dr. Wei Liang). His current research interest is blockchain security, service computing, and deep learning.
+Yuhui Li is an undergraduate student in Computer Science Department at Shantou University (Supervisor: Dr. Jianlong Xu). He is expected to graduate with distinction **(Rank 2/133, GPA 4.02/5.0)** in 2021. He has been enrolled as a postgraduate student at Hunan University and will go there for further study in September 2021. (Supervisor: Dr. Wei Liang). His current research interest is blockchain security, service computing, and deep learning.
