@@ -4,7 +4,7 @@ title: QoS Prediction and Adversarial Attack Protection for Distributed Services
 publication_types:
   - "2"
 authors:
-  - Wei Liang* 
+  - Wei Liang
   - Yuhui Li
   - Jianlong Xu
   - Zheng Qin
