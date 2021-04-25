@@ -10,6 +10,8 @@ authors:
   - Zheng Qin
   - Dafang Zhang
   - Kuan-Ching Li
+author_notes:
+  - Corresponding Authors
 publication: IEEE Transaction on Computers
 draft: false
 featured: false
