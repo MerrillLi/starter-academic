@@ -4,7 +4,7 @@ publication_types:
   - "1"
 authors:
   - Yuhui Li
-  - Jianlong Xu*
+  - Jianlong Xu
   - Wei Liang
 author_notes:
   - ""
