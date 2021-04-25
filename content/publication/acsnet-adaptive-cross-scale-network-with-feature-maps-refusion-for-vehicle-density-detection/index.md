@@ -2,7 +2,7 @@
 title: "ACSNet: Adaptive Cross-scale Network with Feature Maps Refusion for
   Vehicle Density Detection"
 publication_types:
-  - "0"
+  - "1"
 authors:
   - Zuhao Ge
   - Yuhui Li
