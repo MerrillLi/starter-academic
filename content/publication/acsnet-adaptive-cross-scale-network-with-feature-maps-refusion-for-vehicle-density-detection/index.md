@@ -16,7 +16,6 @@ author_notes:
   - ""
   - ""
   - Corresponding Author
-  - ""
 publication: IEEE International Conference on Multimedia and Expo (ICME) 2021
 draft: false
 featured: false
