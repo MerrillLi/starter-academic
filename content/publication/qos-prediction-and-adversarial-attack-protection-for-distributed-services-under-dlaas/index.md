@@ -11,7 +11,7 @@ authors:
   - Dafang Zhang
   - Kuan-Ching Li
 author_notes:
-  - Corresponding Authors
+  - Corresponding Author
 publication: IEEE Transaction on Computers
 draft: false
 featured: false
