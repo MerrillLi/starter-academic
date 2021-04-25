@@ -8,7 +8,7 @@ authors:
   - Yuhui Li
   - Cheng Liang
   - Youyi Song
-  - Teng Zhou*
+  - Teng Zhou
   - Jing Qin
 author_notes:
   - ""
