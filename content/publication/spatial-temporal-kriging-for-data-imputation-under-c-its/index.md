@@ -1,5 +1,5 @@
 ---
-title: Spatial-Temporal Kriging for Data Imputation under C-ITS
+title: Spatial-Temporal Aware Inductive Data Recovery under C-ITS
 subtitle: "[Under Review]"
 publication_types:
   - "0"
@@ -7,8 +7,10 @@ publication_types:
 authors:
   - Wei Liang
   - Yuhui Li
-  - Songyou Xie
   - Kuan-Ching Li
+  - Xiaoliang Wang
+  - Shiwen Zhang
+  - Dafang Zhang
 author_notes:
   - "*"
 publication: IEEE Transactions on Intelligent Transportation System
