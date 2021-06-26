@@ -1,6 +1,6 @@
 ---
-title: Spatial-Temporal Aware Inductive Data Recovery under C-ITS
-subtitle: "[Under Review]"
+title: "[Under Review] Spatial-temporal Aware Inductive Data Recovery under C-ITS"
+subtitle: ""
 publication_types:
   - "0"
   - "2"
