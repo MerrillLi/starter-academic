@@ -1,5 +1,6 @@
 ---
-title: "[Under Review] Spatial-temporal Aware Inductive Data Recovery under C-ITS"
+title: "[Under Review] Spatial-temporal Aware Inductive Graph Neural Network for
+  C-ITS Data Recovery"
 subtitle: ""
 publication_types:
   - "0"
@@ -7,10 +8,10 @@ publication_types:
 authors:
   - Wei Liang
   - Yuhui Li
-  - Kuan-Ching Li
-  - Xiaoliang Wang
-  - Shiwen Zhang
+  - Kun Xie
   - Dafang Zhang
+  - Kuan-Ching Li
+  - Keqin Li
 author_notes:
   - "*"
 publication: IEEE Transactions on Intelligent Transportation System
