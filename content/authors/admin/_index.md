@@ -4,10 +4,10 @@ role: Graduate Student
 avatar_filename: yuhui-li.jpeg
 bio: My research interests include Blockchain, Service Computing and Deep Learning.
 interests:
-  - Deep Learning
+  - Mobile Computing
+  - Blockchain
   - Service Computing
-  - Network Analysis
-  - Blockchain Security
+  - Deep Learning
 social: []
 organizations:
   - name: Hunan University
