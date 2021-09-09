@@ -10,7 +10,6 @@ authors:
   - Che Lin and Wei Liang
 author_notes:
   - ""
-  - ""
   - "*"
   - ""
 publication: ICA3PP
