@@ -1,7 +1,7 @@
 ---
 title: Yuhui Li
 role: Graduate Student
-avatar_filename: yuhui-li.jpeg
+avatar_filename: lyh.jpeg
 bio: My research interests include Blockchain, Service Computing and Deep Learning.
 interests:
   - Mobile Computing
