@@ -1,6 +1,5 @@
 ---
-title: "[Under Review] Spatial-temporal Aware Inductive Graph Neural Network for
-  C-ITS Data Recovery"
+title: Spatial-temporal Aware Inductive Graph Neural Network for C-ITS Data Recovery
 subtitle: ""
 publication_types:
   - "0"
@@ -11,6 +10,7 @@ authors:
   - Kun Xie
   - Dafang Zhang
   - Kuan-Ching Li
+  - Alireza Souri
   - Keqin Li
 author_notes:
   - "*"
