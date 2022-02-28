@@ -1,5 +1,5 @@
 ---
-title: "[To be submitted] Predicting Drug-Target Interactions via Graph
+title: "[Major Revision] Predicting Drug-Target Interactions via Graph
   Differential Equations"
 publication_types:
   - "2"
