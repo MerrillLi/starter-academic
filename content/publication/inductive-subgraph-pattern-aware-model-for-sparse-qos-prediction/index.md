@@ -1,18 +1,19 @@
 ---
-title: "\tInductive Subgraph Pattern Aware Model for Sparse QoS Prediction"
+title: "\t[Submitted] Inductive Subgraph Pattern Aware Model for Sparse QoS
+  Prediction"
 publication_types:
   - "1"
 authors:
-  - Zhiyu Xia
   - Jianlong Xu
   - Yuhui Li
-  - Wanying Li
-  - Che Lin and Wei Liang
+  - Zhiyu Xia
+  - Weiwei She
+  - Jian Lin
+  - Zhuo Xu
 author_notes:
-  - ""
   - "*"
   - ""
-publication: ICA3PP
+publication: ICWS2022
 draft: false
 featured: false
 image:
